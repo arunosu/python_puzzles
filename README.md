@@ -1,6 +1,6 @@
 # Blind 75: Pattern-Oriented Learning Plan for Meta L5 Interviews
 
-This guide restructures the Blind 75 problem set around **core patterns**, enabling you to develop intuition and transferable techniques. Ideal for **Meta L5 Senior Software Engineer** interviews, the focus is on solving problems by recognizing and applying patterns, not memorizing solutions.
+This guide restructures the Blind 75 problem set around **core patterns**, enabling you to develop intuition and transferable techniques. Ideal for ** Software Engineer** interviews, the focus is on solving problems by recognizing and applying patterns, not memorizing solutions.
 
 ---
 
